@@ -1,0 +1,19 @@
+$color_ffd191: #ffd191;
+
+.category_item {
+  background: $color_ffd191;
+  padding: 10px 20px;
+  border-radius: 15px;
+  cursor: pointer;
+  transition: .5s;
+  align-items: center;
+
+}
+
+.category_item {
+  &:hover {
+    transform: translateY(-15px);
+
+  }
+}
+

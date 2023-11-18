@@ -1,0 +1,23 @@
+$color_ed9121: #ed9121;
+
+table {
+    text-align: center;
+}
+
+.img_delete {
+    cursor: pointer;
+}
+
+.subtotal_item{
+    span {
+        color: $color_ed9121;
+        font-size: 1.5rem;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    th, td{
+        font-size: 0.8rem;
+    }
+
+}

@@ -1,0 +1,115 @@
+$color_ed9121: #ed9121;
+$color_ffd191: #ffd191;
+
+.hero_content {
+  border: none;
+  padding: 20px;
+  border-radius: 30px;
+  background: $color_ffd191;
+  display: inline-block;
+  margin-bottom: 10px;
+}
+
+.hero_btns {
+  button {
+    border: none;
+    outline: none;
+    padding: 7px 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    font-weight: 600;
+  }
+}
+
+.order_btn {
+  background: $color_ed9121;
+  color: #fff;
+  transition: .3s;
+
+  &:hover {
+    background: #693f18;
+  }
+}
+
+
+.all_foods_btn {
+  background: white;
+  border: 1px solid $color_ed9121 !important;
+  transition: .3s;
+  color:$color_ed9121;
+
+  &:hover {
+    background: $color_ed9121;
+    color: white;
+
+  }
+
+}
+
+.food_category {
+  background: #ed9121;
+  text-align: center;
+  margin-top: 30px;
+  padding: 20px 0;
+  border-radius: 15px;
+
+  button {
+    border: none;
+    outline: none;
+    padding: 7px 20px;
+    background: transparent;
+    color: white;
+
+    img {
+      width: 50px;
+      height: 50px;
+    }
+  }
+}
+
+.btn_all_burger_pizza {
+  background: white !important;
+  border-radius: 15px !important;
+  color: #ed9121 !important;
+}
+
+.location_item {
+  p {
+    text-align: justify;
+  }
+
+}
+
+@media only screen and (max-width: 768px) {
+  .hero_content {
+    h5 {
+      font-size: 1rem;
+    }
+
+    p {
+      font-size: 0.9rem;
+      line-height: 25px;
+    }
+  }
+}
+
+@media only screen and (max-width: 576px) {
+
+  .hero_content{
+    h5 {
+      font-size: 1rem;
+    }
+    p {
+      font-size: 0.9rem;
+      line-height: 25px;
+    }
+  }
+
+  .hero_btns {
+    justify-content: center;
+    button {
+      padding: 5px 15px;
+      font-size: 0.7rem;
+    }
+  }
+}

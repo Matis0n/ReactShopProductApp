@@ -1,0 +1,13 @@
+$color_ed9121: #ed9121;
+
+.checkout_bill {
+    border: 1px solid $color_ed9121;
+    padding: 10px;
+    border-radius: 20px;
+    background: #ffd191;
+}
+
+.checkout_total {
+    padding-top: 15px;
+    border-top: 1px solid $color_ed9121;
+}

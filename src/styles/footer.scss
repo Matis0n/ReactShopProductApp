@@ -1,0 +1,85 @@
+$color_ed9121: #ed9121;
+$color_ffd191: #ffd191;
+$color_212245: #212245;
+
+.footer {
+  padding: 50px 0px;
+  background: $color_ffd191;
+  margin-top: auto;
+}
+
+.footer_logo {
+  font-size: .9rem;
+  color: #4d4a4a;
+  line-height: 20px;
+
+  img {
+    width: calc(100% - 80%);
+    margin-top: 5px;
+  }
+
+  h5 {
+    font-weight: 600;
+    font-size: 1rem;
+    margin-bottom: 15px;
+  }
+
+}
+
+.delivery_time_item {
+  background: transparent !important;
+
+  span {
+    font-weight: 600;
+    font-size: 1rem;
+    color: $color_212245;
+
+  }
+
+  p {
+    color: $color_212245;
+  }
+}
+
+
+.footer_title {
+  font-size: 1.1rem;
+  color: $color_212245;
+  font-weight: 600;
+}
+
+.newsletter {
+  padding: 7px;
+  border: 1px solid $color_212245;
+  border-radius: 15px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+
+  input {
+    background: transparent;
+    border: none;
+    outline: none;
+
+    &:focus {
+      outline: none;
+    }
+
+    &::placeholder {
+      color: $color_212245;
+    }
+  }
+}
+
+
+.social_link_item {
+  display: inline-block;
+  margin: 0 5px;
+  border: 1px solid $color_ed9121;
+  border-radius: 50%;
+  padding: 2px;
+  background: $color_ffd191;
+
+}
+

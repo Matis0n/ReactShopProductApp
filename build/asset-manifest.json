@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f09d65eb.css",
+    "main.js": "/static/js/main.83cdf2ce.js",
+    "static/media/banner.jpg": "/static/media/banner.08e459d4da103a0c3046.jpg",
+    "static/media/product_4.3.png": "/static/media/product_4.3.2df1cebb0cf62346965c.png",
+    "static/media/product_3.1.jpg": "/static/media/product_3.1.9c207cdf68c9700b11ce.jpg",
+    "static/media/product_2.2.jpg": "/static/media/product_2.2.4967c9cbe3fec366a31a.jpg",
+    "static/media/product_2.3.jpg": "/static/media/product_2.3.3914f9eb0c0b372910ea.jpg",
+    "static/media/product_4.2.jpg": "/static/media/product_4.2.e82e43e0a3fc5dab999e.jpg",
+    "static/media/product_4.1.jpg": "/static/media/product_4.1.3c8ecc492220a3922731.jpg",
+    "static/media/product_3.3.jpg": "/static/media/product_3.3.f482f459be92f0045d9a.jpg",
+    "static/media/product_3.2.jpg": "/static/media/product_3.2.ebcb16b50e4ef0060a5e.jpg",
+    "static/media/product_2.1.jpg": "/static/media/product_2.1.f15385546f60c8d0f0d9.jpg",
+    "static/media/product_01.3.jpg": "/static/media/product_01.3.3ca2e9753f9acf20ca46.jpg",
+    "static/media/product_01.1.jpg": "/static/media/product_01.1.2244bc02a3d347b6bdda.jpg",
+    "static/media/product_09.jpg": "/static/media/product_09.d21d528bedb9088bf89f.jpg",
+    "static/media/product_01.jpg": "/static/media/product_01.6be97a612b580d595585.jpg",
+    "static/media/product_04.jpg": "/static/media/product_04.f7c5294d0481fb12cc4c.jpg",
+    "static/media/product_08.jpg": "/static/media/product_08.efc6c71968cf3ffe817a.jpg",
+    "static/media/hero.jpg": "/static/media/hero.a4537c75151243ea9692.jpg",
+    "static/media/logo.png": "/static/media/logo.f36608af7fef758c3ad8.png",
+    "index.html": "/index.html",
+    "static/media/shopping-basket-line.svg": "/static/media/shopping-basket-line.b6e3ca9cc007877a6811722c039dc86c.svg",
+    "static/media/close-circle-fill.svg": "/static/media/close-circle-fill.c0b8d916199105c79d9fd9b840d2910d.svg",
+    "static/media/search-2-line.svg": "/static/media/search-2-line.4a5f5f4481879ae5695f9a29f4eb0257.svg",
+    "static/media/close-fill.svg": "/static/media/close-fill.379775ac6c26064fc7a626a4f9b0b170.svg",
+    "static/media/delete-bin-5-line.svg": "/static/media/delete-bin-5-line.482cecd324948c94b9f12b0b690e94d4.svg",
+    "static/media/user-fill.svg": "/static/media/user-fill.f80ab9fe3314482b4148fd912bcbbf6c.svg",
+    "static/media/add-line.svg": "/static/media/add-line.d521078ebd2b4a6ad47c4d0db97b03b3.svg",
+    "static/media/menu-line.svg": "/static/media/menu-line.411d25f92e25db906c9e4174fbc77afb.svg",
+    "static/media/subtract-line.svg": "/static/media/subtract-line.e5ee6cd3b78b8bd347b1fe7ff030d8ba.svg",
+    "main.f09d65eb.css.map": "/static/css/main.f09d65eb.css.map",
+    "main.83cdf2ce.js.map": "/static/js/main.83cdf2ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f09d65eb.css",
+    "static/js/main.83cdf2ce.js"
+  ]
+}

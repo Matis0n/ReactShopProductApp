@@ -1,0 +1,30 @@
+$color_fcfcfc: #fcfcfc;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100%;
+  background: $color_fcfcfc;
+  font-family: "Istok Web", sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: unset;
+}
+
+h1,
+h2 {
+  font-size: 2.1rem;
+  font-weight: 600;
+  color: #212245;
+}
+
+section {
+  padding: 45px 0px;
+}
+

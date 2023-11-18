@@ -1,0 +1,50 @@
+$color_ed9121: #ed9121;
+
+.search_widget,
+.sorting_widget select {
+  padding: 0 0 0 10px;
+  border: 1px solid $color_ed9121;
+  border-radius: 20px;
+  cursor: pointer;
+
+  input {
+    width: 100%;
+    border: none;
+  }
+
+}
+
+.search_widget {
+  span {
+    padding: 0 20px;
+    border-radius: 0px 20px 20px 0px;
+    background: #ffd191;
+  }
+
+  input {
+    &:focus {
+      outline: none;
+    }
+  }
+}
+
+.paginationBtn {
+  width: 80%;
+  height: 40px;
+  margin: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  column-gap: 1rem;
+  list-style: none;
+
+  a {
+    padding: 13px;
+    background: $color_ed9121;
+    color: #fff;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}
